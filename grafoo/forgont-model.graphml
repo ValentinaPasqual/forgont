@@ -108,24 +108,12 @@
           <y:Geometry height="44.0" width="141.96822102864604" x="261.77840606039814" y="205.18050235253253"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="131.1796875" x="5.394266764323021" xml:space="preserve" y="10.19921875">forgont:Motivation</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="131.1796875" x="5.394266764323049" xml:space="preserve" y="10.19921875">forgont:Motivation</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
     </node>
     <node id="n9">
-      <data key="d4" xml:space="preserve"/>
-      <data key="d5" xml:space="preserve"><![CDATA[UMLNote]]></data>
-      <data key="d6">
-        <y:UMLNoteNode>
-          <y:Geometry height="74.70263671875" width="179.3120435967303" x="861.4626666983122" y="-211.62509412340813"/>
-          <y:Fill color="#CCFFFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.8984375" x="63.206803048365146" xml:space="preserve" y="25.550537109375">CLAIM</y:NodeLabel>
-        </y:UMLNoteNode>
-      </data>
-    </node>
-    <node id="n10">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="43.0" width="126.09496821071724" x="444.8466171432211" y="-368.16666666666674"/>
@@ -136,7 +124,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n11">
+    <node id="n10">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="44.0" width="154.96822102864604" x="-75.98411051432299" y="-124.5"/>
@@ -147,7 +135,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n12">
+    <node id="n11">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="43.0" width="126.0949682107173" x="-40.06399767147127" y="-398.07291666666663"/>
@@ -158,7 +146,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n13">
+    <node id="n12">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="43.0" width="126.0949682107173" x="237.27594590710294" y="-398.07291666666663"/>
@@ -169,7 +157,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n14">
+    <node id="n13">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="44.0" width="126.09496821071735" x="1065.323531083894" y="93.99775340474719"/>
@@ -180,7 +168,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n15">
+    <node id="n14">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="43.0" width="126.0949682107173" x="1065.323531083894" y="205.68050235253253"/>
@@ -191,7 +179,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n16">
+    <node id="n15">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="43.0" width="126.0949682107173" x="1062.3528101684042" y="262.44613156401925"/>
@@ -202,7 +190,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n17">
+    <node id="n16">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="43.0" width="126.0949682107173" x="1059.3179459131627" y="315.8273826511022"/>
@@ -213,18 +201,18 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n18">
+    <node id="n17">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="43.0" width="126.0949682107173" x="1065.3235310838943" y="150.33912787863986"/>
           <y:Fill color="#CCFFCC" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="75.140625" x="25.477171605358762" xml:space="preserve" y="9.69921875">xsd:String</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="75.140625" x="25.477171605358535" xml:space="preserve" y="9.69921875">xsd:String</y:NodeLabel>
           <y:Shape type="parallelogram"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n19">
+    <node id="n18">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="44.0" width="111.96822102864604" x="1066.3813195041982" y="372.5930118625889"/>
@@ -235,7 +223,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n20">
+    <node id="n19">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="44.0" width="134.09253405994548" x="265.71624954474845" y="289.8117534396155"/>
@@ -246,7 +234,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n21">
+    <node id="n20">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="44.0" width="134.09253405994548" x="-368.25256301293575" y="-306.83284505208326"/>
@@ -257,7 +245,7 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n22">
+    <node id="n21">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="44.0" width="111.9682210286461" x="652.4172883793392" y="-368.66666666666674"/>
@@ -269,7 +257,7 @@ Geonames</y:NodeLabel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n23">
+    <node id="n22">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="399.8545671502621" width="1033.2443721183063" x="-139.1671148939223" y="-308.2375976433138"/>
@@ -280,7 +268,7 @@ Geonames</y:NodeLabel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n24">
+    <node id="n23">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="44.0" width="141.96822102864604" x="272.51536051432305" y="-246.83333333333337"/>
@@ -291,18 +279,18 @@ Geonames</y:NodeLabel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n25">
+    <node id="n24">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="44.0" width="141.96822102864604" x="-139.1671148939223" y="249.81175343961547"/>
+          <y:Geometry height="44.0" width="154.96822102864604" x="-152.1671148939223" y="249.81175343961547"/>
           <y:Fill color="#FFFF00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="149.875" x="-3.9533894856770075" xml:space="preserve" y="10.19921875">forgont:Methodology</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="149.875" x="2.546610514323021" xml:space="preserve" y="10.19921875">forgont:Methodology</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n26">
+    <node id="n25">
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="44.0" width="134.09253405994548" x="65.2434890675882" y="311.3569472807037"/>
@@ -313,57 +301,31 @@ Geonames</y:NodeLabel>
         </y:ShapeNode>
       </data>
     </node>
+    <node id="n26">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="44.0" width="111.9682210286461" x="-265.30768187285236" y="-458.8382352345176"/>
+          <y:Fill color="#FFFF00" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="95.5859375" x="8.19114176432305" xml:space="preserve" y="10.19921875">forgont:Work</y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
     <node id="n27">
+      <data key="d4" xml:space="preserve"/>
+      <data key="d5" xml:space="preserve"><![CDATA[UMLNote]]></data>
       <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="44.0" width="81.96822102864604" x="1425.7251120466526" y="-180.92245740465813"/>
-          <y:Fill color="#FFFF00" transparent="false"/>
+        <y:UMLNoteNode>
+          <y:Geometry height="74.70263671875" width="179.3120435967303" x="860.572422795873" y="-270.5110697331642"/>
+          <y:Fill color="#CCFFFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.8046875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="198.75" x="-58.39088948567701" xml:space="preserve" y="-9.40234375">(1) Scholarly disciplines
-(2) Motivations and studies
-(3) Qualification of certainty</y:NodeLabel>
-          <y:Shape type="roundrectangle"/>
-        </y:ShapeNode>
+          <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="43.203125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="55.578125" x="61.866959298365146" xml:space="preserve" y="15.749755859375">CLAIM
+(graph)</y:NodeLabel>
+        </y:UMLNoteNode>
       </data>
     </node>
-    <node id="n28">
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="166.08425976867625" width="366.8314938222239" x="1401.706542390728" y="-576.9171048207595"/>
-          <y:Fill hasColor="false" transparent="false"/>
-          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="317.625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="546.5" x="-89.83425308888809" xml:space="preserve" y="-75.77037011566188">Claim:
-
-Attribution
-Location of creation assignment
-Time of creation assignment
-Document type assignement
-
-Fuzziness:
-(1) Fuzzy dates are recorded as timespans
-(2) Qualifiers are added to each triple of the claim GRAPH
-
-Claim Contextual Information
-(1) Author of the claim
-(2) Motivation of the claim
-(3) Source of the claim
-(4) Other claims or Editions considered as being the background of the claim</y:NodeLabel>
-          <y:Shape type="roundrectangle"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n29">
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="44.0" width="81.96822102864604" x="-515.0692391567211" y="-495.30524674377443"/>
-          <y:Fill color="#FFFF00" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.328125" x="20.320048014322992" xml:space="preserve" y="10.19921875">Work</y:NodeLabel>
-          <y:Shape type="roundrectangle"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <edge id="e0" source="n11" target="n0">
+    <edge id="e0" source="n10" target="n0">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -390,7 +352,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e2" source="n11" target="n2">
+    <edge id="e2" source="n10" target="n2">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -412,7 +374,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e4" source="n11" target="n3">
+    <edge id="e4" source="n10" target="n3">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -438,7 +400,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e6" source="n23" target="n4">
+    <edge id="e6" source="n22" target="n4">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="36.020573726520276" sy="26.646879653868574" tx="0.0" ty="0.0">
@@ -474,7 +436,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e9" source="n23" target="n4">
+    <edge id="e9" source="n22" target="n4">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="190.72483739699112" sy="-64.39046344511881" tx="0.0" ty="0.0"/>
@@ -485,7 +447,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e10" source="n23" target="n7">
+    <edge id="e10" source="n22" target="n7">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -498,7 +460,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e11" source="n23" target="n8">
+    <edge id="e11" source="n22" target="n8">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -509,7 +471,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e12" source="n2" target="n10">
+    <edge id="e12" source="n2" target="n9">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -523,7 +485,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e13" source="n0" target="n13">
+    <edge id="e13" source="n0" target="n12">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -534,7 +496,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e14" source="n0" target="n12">
+    <edge id="e14" source="n0" target="n11">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -545,7 +507,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e15" source="n4" target="n14">
+    <edge id="e15" source="n4" target="n13">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -560,7 +522,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e16" source="n4" target="n15">
+    <edge id="e16" source="n4" target="n14">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -574,7 +536,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e17" source="n4" target="n17">
+    <edge id="e17" source="n4" target="n16">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -588,7 +550,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e18" source="n4" target="n16">
+    <edge id="e18" source="n4" target="n15">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -601,7 +563,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e19" source="n4" target="n18">
+    <edge id="e19" source="n4" target="n17">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -615,7 +577,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e20" source="n4" target="n19">
+    <edge id="e20" source="n4" target="n18">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -629,7 +591,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e21" source="n20" target="n8">
+    <edge id="e21" source="n19" target="n8">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -639,7 +601,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e22" source="n23" target="n11">
+    <edge id="e22" source="n22" target="n10">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="-516.6234088084047" sy="62.69727345711317" tx="-35.37364634146357" ty="11.68292682926824">
@@ -654,7 +616,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e23" source="n11" target="n21">
+    <edge id="e23" source="n10" target="n20">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -665,7 +627,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e24" source="n2" target="n22">
+    <edge id="e24" source="n2" target="n21">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -678,7 +640,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e25" source="n23" target="n23">
+    <edge id="e25" source="n22" target="n22">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="488.06440946899244" ty="112.21884944157125">
@@ -692,7 +654,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e26" source="n11" target="n24">
+    <edge id="e26" source="n10" target="n23">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -705,20 +667,21 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e27" source="n11" target="n29">
+    <edge id="e27" source="n10" target="n26">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="-282.8197883381389" y="-432.6104934875491"/>
+            <y:Point x="-64.72926829268283" y="-177.08231707317077"/>
+            <y:Point x="-134.8268292682926" y="-250.10060975609758"/>
           </y:Path>
           <y:LineStyle color="#000080" type="line" width="1.0"/>
           <y:Arrows source="circle" target="delta"/>
-          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" horizontalTextPosition="center" iconTextGap="4" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000080" verticalTextPosition="bottom" visible="true" width="125.828125" x="-199.54506085214385" xml:space="preserve" y="-170.43668595275892">expression&amp;work<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" horizontalTextPosition="center" iconTextGap="4" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000080" verticalTextPosition="bottom" visible="true" width="234.3515625" x="-264.9777099785078" xml:space="preserve" y="-215.1753322243115">forgont:hasPhisicalManifestation<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e28" source="n11" target="n11">
+    <edge id="e28" source="n10" target="n10">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-2.3343292682927483" ty="-11.233170731707332">
@@ -733,7 +696,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e29" source="n23" target="n25">
+    <edge id="e29" source="n22" target="n24">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -746,7 +709,7 @@ Claim Contextual Information
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e30" source="n7" target="n26">
+    <edge id="e30" source="n7" target="n25">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
