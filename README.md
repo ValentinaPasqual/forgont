@@ -48,4 +48,4 @@
   - Source of the claim
   - Other claims or Editions considered as being the background of the claim
 
-![Hierarchy of Documents](grafoo/forgont-model.svg)
+![Authenticity assessment claim representation](grafoo/forgont-model.svg)
