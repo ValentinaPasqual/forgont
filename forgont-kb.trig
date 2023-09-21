@@ -1714,7 +1714,7 @@ ass:146 {
 
 ass:23-2 {
     item:23 forgont:creation_date time:975-1000 ;
-        a type:Original, forgont:IntegrallyForgedDocument.
+        a type:Original, type:IntegrallyForgedDocument.
 
     time:975-1000 forgont:qualifier "?"^^xsd:string .
 
