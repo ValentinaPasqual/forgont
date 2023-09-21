@@ -1,8 +1,6 @@
 # Forgont 
 
-## Forgont Types - Types of documents
-
-### Document Types
+## Document Types
 
 ![Hierarchy of Documents](grafoo/document_definition.svg)
 
@@ -32,7 +30,7 @@
 
 13. **Partially Forged Document**: A partially forged document is one in which only a portion of the content has been fabricated or altered, while other parts remain genuine.
 
-## A Scholarly claim in Forgont:
+## Authenticity assessments 
 
 - **Attribution**
   - Location of creation assignment
