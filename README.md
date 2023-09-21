@@ -1,3 +1,23 @@
+Claim:
+
+- **Attribution**
+-- Location of creation assignment
+-- Time of creation assignment
+-- Document type assignement
+
+- **Fuzziness**:
+-- Fuzzy dates are recorded as timespans
+-- Qualifiers are added to each triple of the claim GRAPH
+
+- **Attribution contextual Information**
+- Author of the claim
+- Motivation of the claim
+- Source of the claim
+- Other claims or Editions considered as being the background of the claim
+
+
+
+
 - Forgont Types - Types of documents
 
 ## Document Types
