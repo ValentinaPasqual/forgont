@@ -49,3 +49,5 @@
   - Other claims or Editions considered as being the background of the claim
 
 ![Authenticity assessment claim representation](grafoo/forgont-model.svg)
+
+
