@@ -23,7 +23,7 @@ Claim:
 
 ## Document Types
 
-![Hierarchy of Documents](grafoo/forgont-model.svg)
+![Hierarchy of Documents](grafoo/document_definition.svg)
 
 1. **Document**: A document is a recorded or written representation of information, often in written or digital form.
 
