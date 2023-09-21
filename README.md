@@ -23,41 +23,30 @@ Claim:
 
 ## Document Types
 
-### Alleged-Original
-- **Description:** A document or item that is claimed to be an original but is subject to doubt or dispute regarding its authenticity.
+![Hierarchy of Documents](grafoo/forgont-model.svg)
 
-### Original
-- **Description:** A genuine and authentic document or item that has not been altered or copied.
-  - **Original-Interpolated**
-    - **Description:** An original document with interpolated or inserted content, possibly to modify its meaning or context.
-  - **Bastardized-Original**
-    - **Description:** An original document that has been significantly altered or corrupted, often to distort its original meaning.
-  - **Suspicious-Original**
-    - **Description:** An original document that raises doubts or suspicion about its authenticity, possibly due to inconsistencies or questionable elements.
-  - **Falsified-Original**
-    - **Description:** An original document that has been intentionally modified or falsified, typically to deceive or mislead.
+1. **Document**: A document is a recorded or written representation of information, often in written or digital form.
 
-### Copy
-- **Description:** A reproduction or duplicate of an original document or item, often created for various purposes, such as record-keeping or distribution.
-  - **Supplemented-New-Copy**
-    - **Description:** A copy of an original document that has been enhanced or supplemented with additional information or content.
+2. **Original**: An original refers to the initial or primary version of a document, created directly by the author or source.
 
-### Falsified-in-Content
-- **Description:** A document or item where the content has been intentionally altered or falsified, while the original format or appearance is preserved.
+3. **Alleged Original**: An alleged original is a document that is claimed to be the original but may be subject to dispute or doubt.
 
-### Innovation
-- **Description:** A novel and creative document or item that introduces new ideas, concepts, or approaches.
+4. **Suspicious Original**: A suspicious original is an original document that raises concerns or doubts about its authenticity or legitimacy.
 
-## Alteration Types
+5. **Copy**: A copy is a reproduction or duplicate of an original document, often made to distribute or preserve information.
 
-### Insert
-- **Description:** The act of adding additional content or information into an existing document or item.
+6. **Authentic Copy**: An authentic copy is a duplicate of an original document that is verified to be genuine and accurate.
 
-### Suspected-Forgery
-- **Description:** A copied or duplicated document that is believed to be a forgery, but its authenticity is not definitively confirmed.
+7. **Insert**: An insert is additional content or material added into an existing document.
 
-### Opened-Question
-- **Description:** A document or situation where there are unresolved doubts or questions about its authenticity or veracity.
+8. **Imitative Copy**: An imitative copy is a reproduction of an original document created with the intent to closely mimic the original.
 
-### Freely-Invented
-- **Description:** A doc
+9. **Simple Copy**: A simple copy is a straightforward duplication of an existing document without any attempt to alter or mimic the original.
+
+10. **Forgery**: Forgery refers to the act of creating or altering a document, signature, or object with the intent to deceive or defraud by passing it off as genuine.
+
+11. **Suspected Forgery**: A suspected forgery is a document or item that is believed to be a result of forgery, but its authenticity has not been confirmed.
+
+12. **Integrally Forged Document**: An integrally forged document is one that has been entirely fabricated or altered, often to deceive others.
+
+13. **Partially Forged Document**: A partially forged document is one in which only a portion of the content has been fabricated or altered, while other parts remain genuine.
