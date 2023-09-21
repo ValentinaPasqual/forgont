@@ -1,27 +1,8 @@
-Claim:
+# Forgont 
 
-- **Attribution**
-  - Location of creation assignment
-  - Time of creation assignment
-  - Author assignment
-  - Physical document type assignement
+## Forgont Types - Types of documents
 
-- **Fuzziness**:
-  - Fuzzy dates are recorded as timespans
-  - Qualifiers are added to each triple of the claim GRAPH
-
-- **Attribution contextual Information**
-  - Author of the claim
-  - Motivation of the claim
-  - Source of the claim
-  - Other claims or Editions considered as being the background of the claim
-
-
-
-
-- Forgont Types - Types of documents
-
-## Document Types
+### Document Types
 
 ![Hierarchy of Documents](grafoo/document_definition.svg)
 
@@ -50,3 +31,23 @@ Claim:
 12. **Integrally Forged Document**: An integrally forged document is one that has been entirely fabricated or altered, often to deceive others.
 
 13. **Partially Forged Document**: A partially forged document is one in which only a portion of the content has been fabricated or altered, while other parts remain genuine.
+
+## A Scholarly claim in Forgont:
+
+- **Attribution**
+  - Location of creation assignment
+  - Time of creation assignment
+  - Author assignment
+  - Physical document type assignement
+
+- **Fuzziness**:
+  - Fuzzy dates are recorded as timespans
+  - Qualifiers are added to each triple of the claim GRAPH
+
+- **Attribution contextual Information**
+  - Author of the claim
+  - Motivation of the claim
+  - Source of the claim
+  - Other claims or Editions considered as being the background of the claim
+
+![Hierarchy of Documents](grafoo/forgont-model.svg)
