@@ -1,12 +1,12 @@
-@prefix ass: <www.example.org/ass/> .
+@prefix ass: <http://www.example.org/ass/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix forgont: <www.example.org/> .
+@prefix forgont: <http://www.example.org/> .
 @prefix geo: <http://www.opengis.net/ont/geosparql#> .
-@prefix item: <www.example.org/item/> .
-@prefix ns1: <www.example.org/claim/> .
+@prefix item: <http://www.example.org/item/> .
+@prefix ns1: <http://www.example.org/claim/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
-@prefix place: <www.example.org/loc/> .
-@prefix ref: <www.example.org/ref/> .
+@prefix place: <http://www.example.org/loc/> .
+@prefix ref: <http://www.example.org/ref/> .
 @prefix riopac: <http://opac.regesta-imperii.de/id/> .
 @prefix time: <www.example.org/time/> .
 @prefix type: <www.example.org/type/> .
@@ -35,19 +35,19 @@ ass:101 {
 
 ass:35-2 {
     item:35 forgont:creation_date time:1250-1300 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:152-2 {
     item:152 forgont:creation_date time:1363,
             time:1376 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1376 forgont:qualifier "um"^^xsd:string .
 }
 
 ns1:51-ref1 {
-    item:51 forgont:has_type type:forgery .
+    item:51 a type:Forgery .
 }
 
 ass:117 {
@@ -70,7 +70,7 @@ ass:107 {
 }
 
 ns1:18-ref2 {
-    item:18 forgont:has_type type:forgery .
+    item:18 a type:Forgery .
 }
 
 ass:109 {
@@ -81,7 +81,7 @@ ass:109 {
 
 ass:60-2 {
     item:60 forgont:creation_date time:1250-1300 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:153 {
@@ -91,7 +91,7 @@ ass:153 {
 
 ass:124-2 {
     item:124 forgont:creation_date time:1255 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:126 {
@@ -101,36 +101,36 @@ ass:126 {
 
 ass:104-2 {
     item:104 forgont:creation_date time:1254-1265 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:72-ref1 {
-    item:72 forgont:has_type type:forgery .
+    item:72 a type:Forgery .
 }
 
 ass:38-2 {
     item:38 forgont:creation_date time:1216- ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1216- forgont:qualifier "?"^^xsd:string .
 }
 
 ass:54-2 {
     item:54 forgont:creation_date time:1200-1216 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:13-ref4 {
-    item:13 forgont:has_type type:forgery .
+    item:13 a type:Forgery .
 }
 
 ns1:137-ref1 {
-    item:137 forgont:has_type type:forgery .
+    item:137 a type:Forgery .
 }
 
 ass:136-2 {
     item:136 forgont:creation_date time:1254-1265 ;
-        forgont:has_type type:freely-invented .
+        a type:Forgery .
 }
 
 ass:58 {
@@ -140,18 +140,18 @@ ass:58 {
 
 ass:120-2 {
     item:120 forgont:creation_date time:1250-1300 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1250-1300 forgont:qualifier "wohl"^^xsd:string .
 }
 
 ass:102-2 {
     item:102 forgont:creation_date time:1186-1250 ;
-        forgont:has_type type:originale .
+        a type:Original .
 }
 
 ns1:19-ref3 {
-    item:19 forgont:has_type type:forgery .
+    item:19 a type:Forgery .
 }
 
 ass:72 {
@@ -184,12 +184,12 @@ ass:16 {
 
 ass:6-2 {
     item:6 forgont:creation_date time:970- ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:68-2 {
     item:68 forgont:creation_date time:1154-1155 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:53 {
@@ -199,21 +199,21 @@ ass:53 {
 
 ass:69-2 {
     item:69 forgont:creation_date time:1236 ;
-        forgont:has_type type:insert .
+        a type:Insert .
 }
 
 ns1:39-ref1 {
-    item:39 forgont:has_type type:forgery .
+    item:39 a type:Forgery .
 }
 
 ass:3-2 {
     item:3 forgont:creation_date time:950-1000 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:5-2 {
     item:5 forgont:creation_date time:1250-1275 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:75 {
@@ -222,21 +222,21 @@ ass:75 {
 }
 
 ns1:17-ref1 {
-    item:17 forgont:has_type type:forgery .
+    item:17 a type:Forgery .
 }
 
 ass:141-2 {
     item:141 forgont:creation_date <www.example.org/time/-1264> ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:122-ref1 {
-    item:122 forgont:has_type type:forgery .
+    item:122 a type:Forgery .
 }
 
 ass:28-2 {
     item:28 forgont:creation_date time:1100-1150 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:62-ref1 {
@@ -259,7 +259,7 @@ ass:116 {
 }
 
 ns1:41-ref1 {
-    item:41 forgont:has_type type:forgery .
+    item:41 a type:Forgery .
 }
 
 ass:31 {
@@ -270,12 +270,12 @@ ass:31 {
 ass:90-2 {
     item:90 forgont:creation_date time:1181,
             time:1246-1247 ;
-        forgont:has_type type:insert .
+        a type:Insert .
 }
 
 ass:43-2 {
     item:43 forgont:creation_date time:1150-1175 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:21-2 {
@@ -284,7 +284,7 @@ ass:21-2 {
 
 ass:127-2 {
     item:127 forgont:creation_date time:1236-1238 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:104 {
@@ -295,18 +295,18 @@ ass:104 {
 ass:153-2 {
     item:153 forgont:creation_date time:1363,
             time:1376 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1376 forgont:qualifier "um"^^xsd:string .
 }
 
 ass:27-2 {
     item:27 forgont:creation_date time:1175-1250 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:13-ref2 {
-    item:13 forgont:has_type type:forgery .
+    item:13 a type:Forgery .
 }
 
 {
@@ -1669,29 +1669,29 @@ ns1:13-ref2 {
 
 ass:130-2 {
     item:130 forgont:creation_date time:1262 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
     time:1262 forgont:qualifier "unmittelbar vor"^^xsd:string,
             "wahrscheinlich"^^xsd:string .
 }
 
 ns1:81-ref1 {
-    item:81 forgont:has_type type:forgery .
+    item:81 a type:Forgery .
 }
 
 ns1:35-ref1 {
-    item:35 forgont:has_type type:forgery .
+    item:35 a type:Forgery .
 }
 
 ass:12-2 {
     item:12 forgont:creation_date time:950-1000 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
-    type:copy forgont:qualifier "?"^^xsd:string .
+    type:Copy forgont:qualifier "?"^^xsd:string .
 }
 
 ns1:19-ref4 {
-    item:19 forgont:has_type type:forgery .
+    item:19 a type:Forgery .
 }
 
 ass:121 {
@@ -1714,7 +1714,7 @@ ass:146 {
 
 ass:23-2 {
     item:23 forgont:creation_date time:975-1000 ;
-        forgont:has_type type:falsified-original .
+        a type:Original, forgont:IntegrallyForgedDocument.
 
     time:975-1000 forgont:qualifier "?"^^xsd:string .
 
@@ -1722,12 +1722,12 @@ ass:23-2 {
 }
 
 ns1:80-ref1 {
-    item:80 forgont:has_type type:forgery .
+    item:80 a type:Forgery .
 }
 
 ass:133-2 {
     item:133 forgont:creation_date time:1260 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
     time:1260 forgont:qualifier "um"^^xsd:string .
 }
@@ -1739,18 +1739,18 @@ ass:68 {
 ass:87-2 {
     item:87 forgont:creation_date time:1159,
             time:1220 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
     time:1220 forgont:qualifier "kurz vor"^^xsd:string .
 }
 
 ns1:15-ref4 {
-    item:15 forgont:has_type type:forgery .
+    item:15 a type:Forgery .
 }
 
 ass:98-2 {
     item:98 forgont:creation_date <www.example.org/time/-1264> ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:125 {
@@ -1760,21 +1760,21 @@ ass:125 {
 
 ass:26-2 {
     item:26 forgont:creation_date <www.example.org/time/-1195> ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     <www.example.org/time/-1195> forgont:qualifier "(vor)"^^xsd:string .
 }
 
 ns1:14-ref4 {
-    item:14 forgont:has_type type:forgery .
+    item:14 a type:Forgery .
 }
 
 ns1:16-ref1 {
-    item:16 forgont:has_type type:forgery .
+    item:16 a type:Forgery .
 }
 
 ns1:3-ref1 {
-    item:3 forgont:has_type type:forgery .
+    item:3 a type:Forgery .
 }
 
 ass:43 {
@@ -1793,7 +1793,7 @@ ass:133 {
 
 ass:126-2 {
     item:126 forgont:creation_date <www.example.org/time/-1262> ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:35 {
@@ -1803,13 +1803,13 @@ ass:35 {
 
 ass:39-2 {
     item:39 forgont:creation_date time:1230 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
     time:1230 forgont:qualifier "um"^^xsd:string .
 }
 
 ns1:19-ref2 {
-    item:19 forgont:has_type type:forgery .
+    item:19 a type:Forgery .
 }
 
 ass:40 {
@@ -1817,7 +1817,7 @@ ass:40 {
 }
 
 ns1:79-ref1 {
-    item:79 forgont:has_type type:opened-question .
+    item:79 a type:opened-question .
 }
 
 ass:140 {
@@ -1827,7 +1827,7 @@ ass:140 {
 
 ass:8-2 {
     item:8 forgont:creation_date time:1184 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1184 forgont:qualifier "?"^^xsd:string,
             "um"^^xsd:string .
@@ -1845,19 +1845,19 @@ ass:15 {
 }
 
 ns1:127-ref1 {
-    item:127 forgont:has_type type:forgery .
+    item:127 a type:Forgery .
 }
 
 ass:9-2 {
     item:9 forgont:creation_date time:1184 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1184 forgont:qualifier "?"^^xsd:string .
 }
 
 ass:15-2 {
     item:15 forgont:creation_date time:970- ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:82 {
@@ -1867,11 +1867,11 @@ ass:82 {
 
 ass:80-2 {
     item:80 forgont:creation_date time:1358-1359 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:87-ref1 {
-    item:87 forgont:has_type type:forgery .
+    item:87 a type:Forgery .
 }
 
 ass:41 {
@@ -1880,12 +1880,12 @@ ass:41 {
 
 ass:2-2 {
     item:2 forgont:creation_date time:800-1000 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:37-2 {
     item:37 forgont:creation_date time:1216- ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:65 {
@@ -1895,7 +1895,7 @@ ass:65 {
 
 ass:144-2 {
     item:144 forgont:creation_date time:1273-1291 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1273-1291 forgont:qualifier "?"^^xsd:string .
 }
@@ -1907,14 +1907,12 @@ ass:98 {
 
 ass:115-2 {
     item:115 forgont:creation_date time:1220-1230 ;
-        forgont:has_type type:original,
-            type:originale .
-
+        a type:Original .
     time:1220-1230 forgont:qualifier "um"^^xsd:string .
 }
 
 ns1:139-ref1 {
-    item:139 forgont:has_type type:suspected-forgery .
+    item:139 a type:SuspectedForgery .
 }
 
 ns1:48-ref2 {
@@ -2012,7 +2010,8 @@ forgont:factual_data {
             ref:1278,
             ref:1330-1 ;
         forgont:has_author forgont:SiegfriedHaider ;
-        forgont:has_source ref:Urkundenverzeuchnis .
+        forgont:has_source ref:Urkundenverzeuchnis ;
+        forgont:has_motivation "innovation"^^xsd:string .
 
     ass:106 forgont:has_source item:106 .
 
@@ -2722,7 +2721,8 @@ forgont:factual_data {
             ref:1350,
             ref:1364 ;
         forgont:has_author forgont:SiegfriedHaider ;
-        forgont:has_source ref:Urkundenverzeuchnis .
+        forgont:has_source ref:Urkundenverzeuchnis ;
+        forgont:has_motivation "significant alterations".
 
     ass:32 forgont:has_source item:32 .
 
@@ -3235,6 +3235,7 @@ forgont:factual_data {
             ref:1278,
             ref:1331,
             ref:1361 ;
+        forgont:has_motivation "Document with supplements";
         forgont:has_author forgont:SiegfriedHaider ;
         forgont:has_source ref:Urkundenverzeuchnis .
 
@@ -5616,14 +5617,14 @@ ass:86 {
 
 ass:88-2 {
     item:88 forgont:creation_date time:1186- ;
-        forgont:has_type type:copy .
+         type:Copy .
 
     time:1186- forgont:qualifier "(nach)"^^xsd:string .
 }
 
 ass:134-2 {
     item:134 forgont:creation_date time:1260 ;
-        forgont:has_type type:insert .
+        a type:Insert .
 
     time:1260 forgont:qualifier "?"^^xsd:string,
             "um"^^xsd:string .
@@ -5636,7 +5637,7 @@ ass:26 {
 
 ass:97-2 {
     item:97 forgont:creation_date time:1220 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
     time:1220 forgont:qualifier "um"^^xsd:string .
 }
@@ -5654,7 +5655,7 @@ ass:128 {
 
 ass:147-2 {
     item:147 forgont:creation_date time:1348-1355 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:38 {
@@ -5681,7 +5682,7 @@ ass:56 {
 
 ass:146-2 {
     item:146 forgont:creation_date time:1273-1291 ;
-        forgont:has_type type:suspicious-original .
+        a type:SuspiciousOriginal .
 }
 
 ass:88 {
@@ -5690,9 +5691,9 @@ ass:88 {
 
 ass:52-2 {
     item:52 forgont:creation_date time:1175-1225 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
-    type:alleged-original forgont:qualifier "?"^^xsd:string .
+    type:AllegedOriginal forgont:qualifier "?"^^xsd:string .
 }
 
 ass:70 {
@@ -5705,7 +5706,7 @@ ass:70 {
 
 ass:96-2 {
     item:96 forgont:creation_date <www.example.org/time/-1247> ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:27 {
@@ -5715,12 +5716,12 @@ ass:27 {
 }
 
 ns1:33-ref1 {
-    item:33 forgont:has_type type:forgery .
+    item:33 a type:Forgery .
 }
 
 ass:101-2 {
     item:101 forgont:creation_date time:1186-1250 ;
-        forgont:has_type type:originale .
+        a type:Original .
 }
 
 ass:63 {
@@ -5746,12 +5747,12 @@ ass:144 {
 }
 
 ns1:15-ref3 {
-    item:15 forgont:has_type type:forgery .
+    item:15 a type:Forgery .
 }
 
 ass:50-2 {
     item:50 forgont:creation_date time:1186- ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:13 {
@@ -5761,7 +5762,7 @@ ass:13 {
 }
 
 ns1:6-ref1 {
-    item:6 forgont:has_type type:forgery .
+    item:6 a type:Forgery .
 }
 
 ass:93 {
@@ -5770,26 +5771,26 @@ ass:93 {
 }
 
 ns1:19-ref1 {
-    item:19 forgont:has_type type:forgery .
+    item:19 a type:Forgery .
 }
 
 ass:93-2 {
     item:93 forgont:creation_date time:1264 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:137-2 {
     item:137 forgont:creation_date time:1253 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:28-ref1 {
-    item:28 forgont:has_type type:forgery .
+    item:28 a type:Forgery .
 }
 
 ass:109-2 {
     item:109 forgont:creation_date time:1236 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:90 {
@@ -5799,25 +5800,25 @@ ass:90 {
 
 ass:11-2 {
     item:11 forgont:creation_date time:950-1000 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:1-ref1 {
-    item:1 forgont:has_type type:forgery .
+    item:1 a type:Forgery .
 }
 
 ns1:56-ref1 {
-    item:56 forgont:has_type type:forgery .
+    item:56 a type:Forgery .
 }
 
 ass:74-2 {
     item:74 forgont:creation_date time:1176 ;
-        forgont:has_type type:insert .
+        a type:Insert .
 }
 
 ass:64-2 {
     item:64 forgont:creation_date time:1188 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:105 {
@@ -5827,12 +5828,12 @@ ass:105 {
 
 ass:41-2 {
     item:41 forgont:creation_date <www.example.org/time/-1234> ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:131-2 {
     item:131 forgont:creation_date time:1265-1269 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:20 {
@@ -5847,19 +5848,19 @@ ass:3 {
 
 ass:24-2 {
     item:24 forgont:creation_date time:1100 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
     time:1100 forgont:qualifier "um"^^xsd:string .
 }
 
 ass:73-2 {
     item:73 forgont:creation_date time:1200-1250 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:123-2 {
     item:123 forgont:creation_date time:1250-1265 ;
-        forgont:has_type type:copia .
+        a type:Copy .
 }
 
 ass:119 {
@@ -5869,7 +5870,7 @@ ass:119 {
 
 ass:67-2 {
     item:67 forgont:creation_date <www.example.org/time/-1220> ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:49 {
@@ -5880,19 +5881,19 @@ ass:49 {
 
 ass:140-2 {
     item:140 forgont:creation_date time:1250-1275 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
-    type:alleged-original forgont:qualifier "?"^^xsd:string .
+    type:AllegedOriginal forgont:qualifier "?"^^xsd:string .
 }
 
 ass:1-2 {
     item:1 forgont:creation_date time:970- ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:129-2 {
     item:129 forgont:creation_date time:1250-1265 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:57 {
@@ -5910,7 +5911,7 @@ ass:64 {
 
 ass:72-2 {
     item:72 forgont:creation_date time:1200-1225 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:17 {
@@ -5925,19 +5926,19 @@ ass:135 {
 
 ass:149-2 {
     item:149 forgont:creation_date time:1361-1376 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
     time:1361-1376 forgont:qualifier "?"^^xsd:string .
 
-    type:alleged-original forgont:qualifier "?"^^xsd:string .
+    type:AllegedOriginal forgont:qualifier "?"^^xsd:string .
 }
 
 ns1:14-ref2 {
-    item:14 forgont:has_type type:forgery .
+    item:14 a type:Forgery .
 }
 
 ns1:29-ref1 {
-    item:29 forgont:has_type type:forgery .
+    item:29 a type:Forgery .
 }
 
 ass:59 {
@@ -5951,7 +5952,7 @@ ass:92 {
 }
 
 ns1:14-ref1 {
-    item:14 forgont:has_type type:forgery .
+    item:14 a type:Forgery .
 }
 
 ass:34 {
@@ -5961,25 +5962,25 @@ ass:34 {
 
 ass:143-2 {
     item:143 forgont:creation_date time:1273-1291 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:73-ref1 {
-    item:73 forgont:has_type type:forgery .
+    item:73 a type:Forgery .
 }
 
 ns1:13-ref1 {
-    item:13 forgont:has_type type:forgery .
+    item:13 a type:Forgery .
 }
 
 ass:78-2 {
     item:78 forgont:creation_date time:1358-1359 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:17-2 {
     item:17 forgont:creation_date <www.example.org/time/-1175> ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:131 {
@@ -5998,16 +5999,16 @@ ass:96 {
 }
 
 ns1:13-ref3 {
-    item:13 forgont:has_type type:forgery .
+    item:13 a type:Forgery .
 }
 
 ns1:30-ref1 {
-    item:30 forgont:has_type type:forgery .
+    item:30 a type:Forgery .
 }
 
 ass:117-2 {
     item:117 forgont:creation_date time:1254-1265 ;
-        forgont:has_type type:originale .
+        a type:Original .
 }
 
 ass:95 {
@@ -6017,7 +6018,7 @@ ass:95 {
 
 ass:25-2 {
     item:25 forgont:creation_date <www.example.org/time/-1195> ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     <www.example.org/time/-1195> forgont:qualifier "(vor)"^^xsd:string .
 }
@@ -6033,7 +6034,7 @@ ass:108 {
 }
 
 ns1:47-ref1 {
-    item:47 forgont:has_type type:forgery .
+    item:47 a type:Forgery .
 }
 
 ass:143 {
@@ -6042,7 +6043,7 @@ ass:143 {
 
 ass:89-2 {
     item:89 forgont:creation_date <www.example.org/time/-1235> ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:1 {
@@ -6053,29 +6054,29 @@ ass:1 {
 
 ass:107-2 {
     item:107 forgont:creation_date time:1221-1230 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
     time:1221-1230 forgont:qualifier "ca."^^xsd:string .
 }
 
 ass:51-2 {
     item:51 forgont:creation_date time:1200-1216 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:116-2 {
     item:116 forgont:creation_date time:1254-1265 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:16-2 {
     item:16 forgont:creation_date <www.example.org/time/-1175> ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:135-2 {
     item:135 forgont:creation_date time:1254-1265 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:130 {
@@ -6086,43 +6087,43 @@ ass:130 {
 ass:65-2 {
     item:65 forgont:creation_date time:1144,
             time:1200-1300 ;
-        forgont:has_type type:original .
+        a type:Original .
 
     time:1200-1300 forgont:qualifier "?"^^xsd:string .
 }
 
 ns1:14-ref3 {
-    item:14 forgont:has_type type:forgery .
+    item:14 a type:Forgery .
 }
 
 ass:75-2 {
     item:75 forgont:creation_date <www.example.org/time/-1254> ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:33-2 {
     item:33 forgont:creation_date time:1138-1144 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ns1:54-ref1 {
-    item:54 forgont:has_type type:forgery .
+    item:54 a type:Forgery .
 }
 
 ass:61-2 {
     item:61 forgont:creation_date time:1186 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1186 forgont:qualifier "um"^^xsd:string .
 }
 
 ass:36-2 {
     item:36 forgont:creation_date time:1200-1250 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:103-ref1 {
-    item:103 forgont:has_type type:forgery .
+    item:103 a type:Forgery .
 }
 
 ass:80 {
@@ -6146,7 +6147,7 @@ ass:21 {
 
 ass:84-2 {
     item:84 forgont:creation_date <www.example.org/time/-1254> ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:55 {
@@ -6162,7 +6163,7 @@ ass:134 {
 }
 
 ns1:113-ref1 {
-    item:113 forgont:has_type type:forgery .
+    item:113 a type:Forgery .
 }
 
 ass:84 {
@@ -6176,12 +6177,12 @@ ass:28 {
 }
 
 ns1:18-ref1 {
-    item:18 forgont:has_type type:suspected-forgery .
+    item:18 a type:SuspectedForgery .
 }
 
 ass:40-2 {
     item:40 forgont:creation_date time:1100-1200 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:74 {
@@ -6191,7 +6192,7 @@ ass:74 {
 }
 
 ns1:135-ref1 {
-    item:135 forgont:has_type type:forgery .
+    item:135 a type:Forgery .
 }
 
 ass:150 {
@@ -6201,18 +6202,18 @@ ass:150 {
 
 ass:125-2 {
     item:125 forgont:creation_date <www.example.org/time/-1264> ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:53-2 {
     item:53 forgont:creation_date time:1116,
             time:1150-1200 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:77-2 {
     item:77 forgont:creation_date time:1236 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:111 {
@@ -6225,17 +6226,17 @@ ass:111 {
 
 ass:139-2 {
     item:139 forgont:creation_date time:1250-1275 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:30-2 {
     item:30 forgont:creation_date time:1150-1200 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:55-2 {
     item:55 forgont:creation_date time:1200-1250 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:87 {
@@ -6244,19 +6245,19 @@ ass:87 {
 }
 
 ns1:70-ref1 {
-    item:70 forgont:has_type type:forgery .
+    item:70 a type:Forgery .
 }
 
 ass:42-2 {
     item:42 forgont:creation_date <www.example.org/time/-1234> ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     <www.example.org/time/-1234> forgont:qualifier "?"^^xsd:string .
 }
 
 ass:95-2 {
     item:95 forgont:creation_date time:1179 ;
-        forgont:has_type type:originale .
+        a type:Original .
 
     time:1179 forgont:qualifier "bald nach"^^xsd:string .
 }
@@ -6271,7 +6272,7 @@ ass:11 {
 
 ass:110-2 {
     item:110 forgont:creation_date time:1220 ;
-        forgont:has_type type:originale .
+        a type:Original .
 
     time:1220 forgont:qualifier "um"^^xsd:string .
 }
@@ -6283,40 +6284,40 @@ ass:122 {
 
 ass:56-2 {
     item:56 forgont:creation_date time:1175-1225 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
     time:1175-1225 forgont:qualifier "?"^^xsd:string .
 
-    type:alleged-original forgont:qualifier "?"^^xsd:string .
+    type:AllegedOriginal forgont:qualifier "?"^^xsd:string .
 }
 
 ass:85-2 {
     item:85 forgont:creation_date time:1163 ;
-        forgont:has_type type:originale .
+        a type:Original .
 
     time:1163 forgont:qualifier "wohl"^^xsd:string .
 }
 
 ass:44-2 {
     item:44 forgont:creation_date time:1150-1175 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
-    type:copy forgont:qualifier "?"^^xsd:string .
+    type:Copy forgont:qualifier "?"^^xsd:string .
 }
 
 ass:13-2 {
     item:13 forgont:creation_date time:970- ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:86-2 {
     item:86 forgont:creation_date <www.example.org/time/-1220> ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:128-2 {
     item:128 forgont:creation_date time:1262 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
     time:1262 forgont:qualifier "unmittelbar vor"^^xsd:string,
             "wahrscheinlich"^^xsd:string .
@@ -6324,11 +6325,11 @@ ass:128-2 {
 
 ass:99-2 {
     item:99 forgont:creation_date time:1250-1264 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:104-ref1 {
-    item:104 forgont:has_type type:forgery .
+    item:104 a type:Forgery .
 }
 
 ass:149 {
@@ -6338,7 +6339,7 @@ ass:149 {
 
 ass:82-2 {
     item:82 forgont:creation_date time:1420- ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:45 {
@@ -6350,24 +6351,24 @@ ass:45 {
 }
 
 ns1:40-ref1 {
-    item:40 forgont:has_type type:forgery .
+    item:40 a type:Forgery .
 }
 
 ass:46-2 {
     item:46 forgont:creation_date time:1175-1225 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
-    type:alleged-original forgont:qualifier "?"^^xsd:string .
+    type:AllegedOriginal forgont:qualifier "?"^^xsd:string .
 }
 
 ass:148-2 {
     item:148 forgont:creation_date time:1360-1370 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:48-2 {
     item:48 forgont:creation_date time:1176 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1176 forgont:qualifier "?"^^xsd:string .
 }
@@ -6381,7 +6382,7 @@ ass:114 {
 }
 
 ns1:112-ref1 {
-    item:112 forgont:has_type type:suspected-forgery .
+    item:112 a type:SuspectedForgery .
 }
 
 ns1:74-ref2 {
@@ -6389,7 +6390,7 @@ ns1:74-ref2 {
 }
 
 ns1:63-ref1 {
-    item:63 forgont:has_type type:forgery .
+    item:63 a type:Forgery .
 }
 
 ass:36 {
@@ -6399,18 +6400,18 @@ ass:36 {
 
 ass:29-2 {
     item:29 forgont:creation_date time:1100-1300 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:31-2 {
     item:31 forgont:creation_date time:1075-1100 ;
-        forgont:has_type type:bastardized-original .
+        a type:Original .
 }
 
 ass:92-2 {
     item:92 forgont:creation_date time:1192,
             time:1265-1269 ;
-        forgont:has_type type:insert .
+        a type:Insert .
 }
 
 ass:81 {
@@ -6430,7 +6431,7 @@ ass:29 {
 
 ass:138-2 {
     item:138 forgont:creation_date time:1253 ;
-        forgont:has_type type:falsified-in-content .
+        a type:Forgery.
 }
 
 ass:139 {
@@ -6440,14 +6441,14 @@ ass:139 {
 
 ass:66-2 {
     item:66 forgont:creation_date time:1290 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1290 forgont:qualifier "um"^^xsd:string .
 }
 
 ass:47-2 {
     item:47 forgont:creation_date time:1200-1250 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:50 {
@@ -6467,15 +6468,15 @@ ass:10 {
 
 ass:81-2 {
     item:81 forgont:creation_date time:1200-1225 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:114-2 {
     item:114 forgont:creation_date time:1212,
             time:1240-1250 ;
-        forgont:has_type type:originale .
+        a type:Original .
 
-    type:originale forgont:qualifier "probably"^^xsd:string .
+    type:Original forgont:qualifier "probably"^^xsd:string .
 }
 
 ass:23 {
@@ -6489,25 +6490,25 @@ ass:106 {
 }
 
 ns1:6-ref3 {
-    item:6 forgont:has_type type:forgery .
+    item:6 a type:Forgery .
 }
 
 ass:71-2 {
     item:71 forgont:creation_date time:1300- ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
-    type:alleged-original forgont:qualifier "?"^^xsd:string .
+    type:AllegedOriginal forgont:qualifier "?"^^xsd:string .
 }
 
 ass:111-2 {
     item:111 forgont:creation_date time:1258 ;
-        forgont:has_type type:insert .
+        a type:Insert .
 
     time:1258 forgont:qualifier "kurz vor"^^xsd:string .
 }
 
 ns1:132-ref1 {
-    item:132 forgont:has_type type:forgery .
+    item:132 a type:Forgery .
 }
 
 ass:19 {
@@ -6523,15 +6524,15 @@ ass:137 {
 
 ass:63-2 {
     item:63 forgont:creation_date time:1200-1250 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:108-ref1 {
-    item:108 forgont:has_type type:forgery .
+    item:108 a type:Forgery .
 }
 
 ns1:6-ref2 {
-    item:6 forgont:has_type type:forgery .
+    item:6 a type:Forgery .
 }
 
 ass:24 {
@@ -6541,11 +6542,11 @@ ass:24 {
 
 ass:76-2 {
     item:76 forgont:creation_date time:1169 ;
-        forgont:has_type type:supplemented-new-copy .
+        a type:Copy .
 }
 
 ns1:34-ref1 {
-    item:34 forgont:has_type type:forgery .
+    item:34 a type:Forgery .
 }
 
 ass:67 {
@@ -6555,13 +6556,12 @@ ass:67 {
 
 ass:14-2 {
     item:14 forgont:creation_date time:970- ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:83-2 {
     item:83 forgont:creation_date time:1100-1300 ;
-        forgont:has_type type:original,
-            type:originale .
+        a type:Original .
 }
 
 ass:51 {
@@ -6594,19 +6594,19 @@ ass:48 {
 
 ass:62-2 {
     item:62 forgont:creation_date <www.example.org/time/-1190> ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     <www.example.org/time/-1190> forgont:qualifier "?"^^xsd:string .
 }
 
 ass:32-2 {
     item:32 forgont:creation_date time:1150-1200 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:113-2 {
     item:113 forgont:creation_date time:1240-1250 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:118 {
@@ -6619,17 +6619,17 @@ ass:118 {
 
 ass:20-2 {
     item:20 forgont:creation_date time:970- ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:19-2 {
     item:19 forgont:creation_date time:970- ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:70-2 {
     item:70 forgont:creation_date time:1216- ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:4 {
@@ -6639,8 +6639,7 @@ ass:4 {
 
 ass:106-2 {
     item:106 forgont:creation_date time:1241-1243 ;
-        forgont:has_type type:original,
-            type:originale .
+        a type:Original .
 }
 
 ass:83 {
@@ -6649,17 +6648,17 @@ ass:83 {
 }
 
 ns1:55-ref1 {
-    item:55 forgont:has_type type:forgery .
+    item:55 a type:Forgery .
 }
 
 ass:103-2 {
     item:103 forgont:creation_date time:1207,
             time:1251-1261 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:36-ref1 {
-    item:36 forgont:has_type type:forgery .
+    item:36 a type:Forgery .
 }
 
 ass:142 {
@@ -6668,7 +6667,7 @@ ass:142 {
 }
 
 ns1:15-ref2 {
-    item:15 forgont:has_type type:forgery .
+    item:15 a type:Forgery .
 }
 
 ass:8 {
@@ -6681,13 +6680,13 @@ ass:8 {
 
 ass:142-2 {
     item:142 forgont:creation_date time:1273-1291 ;
-        forgont:has_type type:suspicious-original .
+        a type:SuspiciousOriginal .
 
     time:1273-1291 forgont:qualifier "?"^^xsd:string .
 }
 
 ns1:98-ref1 {
-    item:98 forgont:has_type type:forgery .
+    item:98 a type:Forgery .
 }
 
 ass:112 {
@@ -6702,12 +6701,12 @@ ass:22 {
 }
 
 ns1:1-ref3 {
-    item:1 forgont:has_type type:forgery .
+    item:1 a type:Forgery .
 }
 
 ass:112-2 {
     item:112 forgont:creation_date time:1236-1237 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1236-1237 forgont:qualifier "?"^^xsd:string,
             "um"^^xsd:string .
@@ -6715,7 +6714,7 @@ ass:112-2 {
 
 ass:18-2 {
     item:18 forgont:creation_date time:970- ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:61 {
@@ -6727,25 +6726,25 @@ ass:61 {
 
 ass:100-2 {
     item:100 forgont:creation_date time:1186-1250 ;
-        forgont:has_type type:originale .
+        a type:Original .
 
     time:1186-1250 forgont:qualifier "um"^^xsd:string .
 }
 
 ass:105-2 {
     item:105 forgont:creation_date time:1216-1229 ;
-        forgont:has_type type:innovation .
+        a type:Forgery .
 
     time:1216-1229 forgont:qualifier "wahrscheinlich"^^xsd:string .
 }
 
 ns1:15-ref1 {
-    item:15 forgont:has_type type:forgery .
+    item:15 a type:Forgery .
 }
 
 ass:57-2 {
     item:57 forgont:creation_date time:1250-1256 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:129 {
@@ -6757,16 +6756,16 @@ ass:129 {
 
 ass:45-2 {
     item:45 forgont:creation_date time:1175-1200 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1175-1200 forgont:qualifier "?"^^xsd:string .
 
-    type:copy forgont:qualifier "?"^^xsd:string .
+    type:Copy forgont:qualifier "?"^^xsd:string .
 }
 
 ass:150-2 {
     item:150 forgont:creation_date time:1376 ;
-        forgont:has_type type:suspicious-original .
+        a type:SuspiciousOriginal .
 
     time:1376 forgont:qualifier "?"^^xsd:string,
             "um"^^xsd:string .
@@ -6787,16 +6786,16 @@ ass:2 {
 
 ass:122-2 {
     item:122 forgont:creation_date time:1236-1238 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:94-2 {
     item:94 forgont:creation_date time:1269-1300 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:37-ref1 {
-    item:37 forgont:has_type type:forgery .
+    item:37 a type:Forgery .
 }
 
 ass:71 {
@@ -6809,7 +6808,7 @@ ass:71 {
 
 ass:7-2 {
     item:7 forgont:creation_date time:1184 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1184 forgont:qualifier "um"^^xsd:string .
 }
@@ -6821,7 +6820,7 @@ ass:44 {
 
 ass:10-2 {
     item:10 forgont:creation_date time:1000-1200 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ass:32 {
@@ -6830,11 +6829,11 @@ ass:32 {
 }
 
 ns1:78-ref1 {
-    item:78 forgont:has_type type:forgery .
+    item:78 a type:Forgery .
 }
 
 ns1:49-ref1 {
-    item:49 forgont:has_type type:forgery .
+    item:49 a type:Forgery .
 }
 
 ass:115 {
@@ -6853,14 +6852,14 @@ ass:102 {
 
 ass:121-2 {
     item:121 forgont:creation_date time:1250-1300 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1250-1300 forgont:qualifier "wohl"^^xsd:string .
 }
 
 ass:151-2 {
     item:151 forgont:creation_date time:1376 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
     time:1376 forgont:qualifier "um"^^xsd:string .
 }
@@ -6878,7 +6877,7 @@ ass:60 {
 ass:108-2 {
     item:108 forgont:creation_date time:1216,
             time:1260-1300 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:123 {
@@ -6888,12 +6887,12 @@ ass:123 {
 
 ass:49-2 {
     item:49 forgont:creation_date <www.example.org/time/-1220> ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:79-2 {
     item:79 forgont:creation_date time:1358-1359 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:1358-1359 forgont:qualifier "?"^^xsd:string .
 }
@@ -6905,17 +6904,16 @@ ass:99 {
 
 ass:145-2 {
     item:145 forgont:creation_date time:1273-1291 ;
-        forgont:has_type type:presunto-originale,
-            type:suspicious-original .
+        a type:SuspiciousOriginal .
 
     type:presunto-originale forgont:qualifier "?"^^xsd:string .
 
-    type:suspicious-original forgont:qualifier "?"^^xsd:string .
+    type:SuspiciousOriginal forgont:qualifier "?"^^xsd:string .
 }
 
 ass:4-2 {
     item:4 forgont:creation_date time:950-1000 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:18 {
@@ -6926,16 +6924,16 @@ ass:18 {
 
 ass:91-2 {
     item:91 forgont:creation_date time:1265-1269 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:99-ref1 {
-    item:99 forgont:has_type type:forgery .
+    item:99 a type:Forgery .
 }
 
 ass:59-2 {
     item:59 forgont:creation_date time:1200-1300 ;
-        forgont:has_type type:insert .
+        a type:Insert .
 }
 
 ass:136 {
@@ -6954,11 +6952,11 @@ ass:97 {
 
 ass:132-2 {
     item:132 forgont:creation_date time:1253-1260 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ns1:46-ref1 {
-    item:46 forgont:has_type type:forgery .
+    item:46 a type:Forgery .
 }
 
 ass:25 {
@@ -6973,7 +6971,7 @@ ass:103 {
 
 ass:118-2 {
     item:118 forgont:creation_date time:1221-1230 ;
-        forgont:has_type <www.example.org/type/origiale,-interpolato> .
+        a type:Original .
 }
 
 ass:152 {
@@ -6993,12 +6991,12 @@ ass:33 {
 }
 
 ns1:86-ref1 {
-    item:86 forgont:has_type type:forgery .
+    item:86 a type:Forgery .
 }
 
 ass:58-2 {
     item:58 forgont:creation_date time:1225 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 
     time:1225 forgont:qualifier "um"^^xsd:string .
 }
@@ -7012,20 +7010,20 @@ ass:69 {
 }
 
 ns1:71-ref1 {
-    item:71 forgont:has_type type:forgery .
+    item:71 a type:Forgery .
 }
 
 ass:22-2 {
     item:22 forgont:creation_date time:970- ;
-        forgont:has_type type:copy .
+        a type:Copy .
 
     time:970- forgont:qualifier "?"^^xsd:string .
 
-    type:copy forgont:qualifier "?"^^xsd:string .
+    type:Copy forgont:qualifier "?"^^xsd:string .
 }
 
 ns1:42-ref1 {
-    item:42 forgont:has_type type:forgery .
+    item:42 a type:Forgery .
 }
 
 ass:37 {
@@ -7040,16 +7038,16 @@ ass:78 {
 
 ass:119-2 {
     item:119 forgont:creation_date time:1236 ;
-        forgont:has_type type:copy .
+        a type:Copy .
 }
 
 ns1:147-ref1 {
-    item:147 forgont:has_type type:forgery .
+    item:147 a type:Forgery .
 }
 
 ass:34-2 {
     item:34 forgont:creation_date time:1200-1250 ;
-        forgont:has_type type:alleged-original .
+        a type:AllegedOriginal .
 }
 
 ass:42 {
@@ -7061,4 +7059,3 @@ ass:113 {
     item:113 forgont:creation_date time:1212 ;
         forgont:creation_place place:Passau .
 }
-
