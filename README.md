@@ -32,17 +32,17 @@
 
 ## Authenticity assessments 
 
-- **Attribution**
+- **Authenticity Assessment claim**
   - Location of creation assignment
   - Time of creation assignment
   - Author assignment
   - Physical document type assignement
 
-- **Fuzziness**:
+- **Fuzziness handling**:
   - Fuzzy dates are recorded as timespans
   - Qualifiers are added to each triple of the claim GRAPH
 
-- **Attribution contextual Information**
+- **Critical discourse representation**
   - Author of the claim
   - Motivation of the claim
   - Source of the claim
