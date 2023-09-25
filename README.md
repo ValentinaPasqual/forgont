@@ -1,8 +1,6 @@
 # Forgont 
 
-## Forgont Types - Types of documents
-
-### Document Types
+## Document Types
 
 ![Hierarchy of Documents](grafoo/document_definition.svg)
 
@@ -32,22 +30,24 @@
 
 13. **Partially Forged Document**: A partially forged document is one in which only a portion of the content has been fabricated or altered, while other parts remain genuine.
 
-## A Scholarly claim in Forgont:
+## Authenticity assessments 
 
-- **Attribution**
+- **Authenticity Assessment claim**
   - Location of creation assignment
   - Time of creation assignment
   - Author assignment
   - Physical document type assignement
 
-- **Fuzziness**:
+- **Fuzziness handling**:
   - Fuzzy dates are recorded as timespans
   - Qualifiers are added to each triple of the claim GRAPH
 
-- **Attribution contextual Information**
+- **Critical discourse representation**
   - Author of the claim
   - Motivation of the claim
   - Source of the claim
   - Other claims or Editions considered as being the background of the claim
 
-![Hierarchy of Documents](grafoo/forgont-model.svg)
+![Authenticity assessment claim representation](grafoo/forgont-model.svg)
+
+
