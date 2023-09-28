@@ -55,7 +55,7 @@
 Qualitative document analysis
 
 ****
-#### Intrinsic features
+#### Intrinsic features - Contents and Structure
 - metre and style 
 - orthography 
 - inter-punctuation 
@@ -69,7 +69,7 @@ Qualitative document analysis
 - chronology 
 - document content
 
-#### Estrinsic features
+#### Estrinsic features - Medium
 - ink   
 - support 
 - sigillum (or seal)
@@ -82,6 +82,15 @@ Qualitative document analysis
 
 #### Provenance
 - The document is lost
+- Doubtful provenance
+
+
+Types of analysis
+- Scientific analysis
+- Historical analysis
+- Philologic analysis
+- Diplomatic analysis
+- Literary analysis
 
 
 
