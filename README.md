@@ -50,4 +50,36 @@
 
 ![Authenticity assessment claim representation](grafoo/forgont-model.svg)
 
+## Motivations
+
+****
+#### Intrinsic features
+metre and style 
+orthography 
+inter-punctuation 
+indentation 
+legal formulas 
+terminology 
+document structure
+format - spacing 
+format - signs 
+format - interpolations
+chronology 
+document content
+
+#### Estrinsic features
+ink   
+support 
+sigillum (or seal)
+document authentication
+hand 
+
+#### Context
+historical context
+literary framework
+
+
+
+
+
 
