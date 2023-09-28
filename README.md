@@ -80,6 +80,9 @@ Qualitative document analysis
 - historical context
 - literary framework
 
+#### Provenance
+- The document is lost
+
 
 
 
