@@ -52,6 +52,8 @@
 
 ## Motivations
 
+Qualitative document analysis
+
 ****
 #### Intrinsic features
 - metre and style 
