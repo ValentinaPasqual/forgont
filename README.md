@@ -60,7 +60,7 @@
 - **provo:has_source**: Describe the set of sources on which the claim has been based on
 - **provo:based_on**: Describe the source on which the claim has been published
 
-## Evidence
+## Features
 ### Qualitative document analysis
 #### Estrinsic features - Medium:
 - ink   
@@ -90,16 +90,22 @@
 - List of witnesses
 - Document provenance
 
-## Criteria 
-## Criteria adopted on extrinsic features
-- **Anachronisms**: Presence of anachronistic materials or inconsistencies in material properties within the purported time 
-- **Material Authenticity**:
-  - **Internal consistency**: Verification of the consistency of use of materials in the surveyed document
+## Evidence
+- **extrinsic features chronological accuracy**
+- **material anachronisms**: Presence of anachronistic materials or inconsistencies in material properties within the purported time
+- **chronological accuracy**: Consistent in material properties within the purported time
+- **extrinsic features Authenticity**:
+  - **material internal consistency**: Verification of the consistency of use of materials in the surveyed document
+  - **material internal inconsistency**
+  - **lack of external confirmation**
   - **External Confirmation**: Analysis of materials for compatibility with the claimed era, or any materials inconsistent with the historical context or materials against historical records
  
 ## Criteria adopted on intrinsic features  
   - **Correct usage**
+  - **Misusage**
   - **Content lack of credibility**
+  - **Content credibility**
+  - **Unverified historical contents**
   - **Internal Consistency**: Check for consistency within the document regarding dates, events, and details. Internal contradictions may raise questions about authenticity
   - **External Confirmation**: Verify the information in the document against other historical sources or records from the same period
   
