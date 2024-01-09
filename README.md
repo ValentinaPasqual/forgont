@@ -50,6 +50,47 @@
 
 ![Authenticity assessment claim representation](grafoo/forgont-model.svg)
 
+## Object Properties
+### Claim object properties
+- **forgont:has_author**: The author of the claim
+- **forgont:has_background**: The scholarly background of the scholar
+- **forgont:based_on_evidence**: Describes the evidences collected to support the claim conclusion 
+- **forgont:criteria**: Describes the criteria (or analysis) used to reach the conclusion declared by the claim
+- **forgont:consider_compared_document**: Describe the set of documents which has been compared to the one under analysis described by the claim
+- **provo:has_source**: Describe the set of sources on which the claim has been based on
+- **provo:based_on**: Describe the source on which the claim has been published
+
+## Criteria
+- Provenance
+-- Origin and Chain of Custody: Trace the document's ownership and custody from its creation to the present day. A well-documented provenance increases the likelihood of authenticity.
+  
+- Examination of extrinsic features:
+-- Material and Age: Examine the physical properties of the document, such as the type of paper or writing material, ink, and aging characteristics. Anachronisms in these features can indicate forgery.
+-- Handwriting and Script:
+  --- Consistency: Analyze the consistency of handwriting and script throughout the document. Sudden changes or discrepancies may suggest tampering or forgery.
+  --- Content and Context:
+  ---- Internal Consistency: Check for consistency within the document regarding dates, events, and details. Internal contradictions may raise questions about authenticity.
+  ---- External Corroboration: Verify the information in the document against other historical sources or records from the same period.
+-- Seals and Signatures:
+  --- Seals: Examine any seals or stamps on the document for authenticity. Seal design, placement, and materials used can provide clues.
+  --- Signatures: Evaluate the signatures on the document. Compare them to known signatures of the purported signatories, if available.
+-- Watermarks and Other Security Features:
+  --- Watermarks: Check for watermarks or other security features that were typical for the time period. Their absence or incorrect usage may be suspicious.
+
+- Examination of intrinsic features:
+-- Language and Style:
+  --- Language Use: Evaluate the language and writing style in relation to the historical period. Anachronistic language or modern expressions may indicate a forgery.
+  --- Diction and Vocabulary: Assess the choice of words and vocabulary for consistency with the supposed authorship and time period.
+-- Historical Context:
+  -- Contextual Relevance: Evaluate whether the content of the document aligns with the historical context and events of the time. Anachronisms or inaccuracies may suggest fabrication.
+-- Forensic Analysis:
+  --- Ink and Paper Analysis: Use scientific techniques to analyze the composition of ink and paper to determine if they are consistent with the purported age.
+
+- Expert Opinion:
+-- Historical Experts: Seek the opinion of experts in the relevant historical period or subject matter. Their expertise can provide valuable insights into the document's authenticity.
+-- Digital Forensics (for digital documents):
+-- Metadata Analysis: Examine digital metadata, such as creation dates and authorship information.
+-- Digital Signatures: Check for digital signatures or cryptographic features that verify the document's integrity.
 ## Motivations
 
 Qualitative document analysis
@@ -68,6 +109,7 @@ Qualitative document analysis
 - format - interpolations
 - chronology 
 - document content
+- dating
 
 #### Estrinsic features - Medium
 - ink   
