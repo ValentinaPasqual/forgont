@@ -62,7 +62,7 @@
 
 ## Criteria
 - Provenance
--- Origin and Chain of Custody: Trace the document's ownership and custody from its creation to the present day. A well-documented provenance increases the likelihood of authenticity.
+  - Origin and Chain of Custody: Trace the document's ownership and custody from its creation to the present day. A well-documented provenance increases the likelihood of authenticity.
   
 - Examination of extrinsic features:
 -- Material and Age: Examine the physical properties of the document, such as the type of paper or writing material, ink, and aging characteristics. Anachronisms in these features can indicate forgery.
