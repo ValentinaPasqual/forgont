@@ -95,8 +95,6 @@
 ## Evidence
   - **Anachronistic extrinsic features**: Presence of anachronistic materials or inconsistencies in material properties within the purported time
   - **Inconsistent usage of extrinsic features**: Verification of the consistency of use of materials within the surveyed document
-     
-## Criteria adopted on intrinsic features  
   - **Anachronistic usage of intrinsic features**: Incorrect or inappropriate use of language, terms, or elements within the document.
   - **Inconsistent usage of intrinsic features**: Check for consistency within the document regarding dates, events, and details. Internal contradictions may raise questions about authenticity
   - **Content lack of credibility**:  The reliability and trustworthiness of the information presented in the document.
@@ -104,9 +102,6 @@
   - **Inconsistent contents within the document**: Check for consistency within the document regarding dates, events, and details described in the document. Internal contradictions may raise questions about authenticity
   - **Inconsistent contents with other documents**: Lack of coherence or agreement in content when compared to information presented in other historical documents.
   - **Presence of subsequent interpolations**: Inclusion of additional elements or modifications within a given context. It refers to the introduction of supplementary information following an initial statement or passage.
-  
-## Criteria adopted on provenance information
-- **Documentary Evidence Criteria**
   - **Incomplete Provenance**: If there are gaps or missing links in the origin or chain of custody, the provenance is considered incomplete. This may raise questions about the document's authenticity and reliability.
   - **Disputed Provenance**: If there are conflicting accounts or disputes regarding the origin or chain of custody, the provenance is considered disputed. This may require further investigation to resolve inconsistencies.
   - **Doubtful Provenance**: If there are reasonable doubts about the authenticity of the provenance, it is categorized as doubtful. This could be due to inconsistencies, lack of supporting evidence, or questionable sources.
@@ -116,6 +111,7 @@
   - **Lack of genuine witnesses**: Assess the credibility of the witnesses. Consider factors such as their expertise, reliability, and potential biases. Reliable witnesses with firsthand knowledge or expertise in relevant fields enhance the credibility of the document's provenance.
 
 - **Other criteria**
+  - **Documentary Evidence Criteria**
   - **Holistic Assessment**: Scholars emphasize a holistic approach, considering the collective weight of evidence. While individual criteria contribute to the assessment, scholars recognize the need to balance positive indicators with potential red flags.
   - **Expert Involvement**: Depending on the complexity of the document, scholars may involve experts in relevant fields (historians, archivists, forensic experts) to provide specialized insights and analysis.
 
