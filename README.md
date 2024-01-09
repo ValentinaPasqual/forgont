@@ -63,7 +63,6 @@
 - **provo:appeoach**: The approach adopted by the scholar to claim such conclusion
 
 ## Features
-### Qualitative document analysis
 #### Estrinsic features - Medium:
 - ink   
 - support 
@@ -106,10 +105,12 @@
   - **Disputed Provenance**: If there are conflicting accounts or disputes regarding the origin or chain of custody, the provenance is considered disputed. This may require further investigation to resolve inconsistencies.
   - **Doubtful Provenance**: If there are reasonable doubts about the authenticity of the provenance, it is categorized as doubtful. This could be due to inconsistencies, lack of supporting evidence, or questionable sources.
   - **Document Loss**: If the historical document is confirmed to be lost or missing, it affects the provenance. In such cases, efforts to recover or reconstruct the provenance become crucial.
-- **Witness Testimony Criteria**
   - **Inconsistency in Testimonies**: Look for consistency in the testimonies of multiple witnesses. Consistent accounts strengthen the reliability of the provenance, while conflicting or inconsistent statements may raise doubts.
   - **Lack of genuine witnesses**: Assess the credibility of the witnesses. Consider factors such as their expertise, reliability, and potential biases. Reliable witnesses with firsthand knowledge or expertise in relevant fields enhance the credibility of the document's provenance.
 
+## Criteria
+### Qualitative document analysis
+- **Witness Testimony Criteria**
 - **Other criteria**
   - **Documentary Evidence Criteria**
   - **Holistic Assessment**: Scholars emphasize a holistic approach, considering the collective weight of evidence. While individual criteria contribute to the assessment, scholars recognize the need to balance positive indicators with potential red flags.
