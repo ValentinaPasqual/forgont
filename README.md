@@ -60,6 +60,7 @@
 - **forgont:consider_compared_document**: Describe the set of documents which has been compared to the one under analysis described by the claim
 - **provo:has_source**: Describe the set of sources on which the claim has been based on
 - **provo:based_on**: Describe the source on which the claim has been published
+- **provo:appeoach**: The approach adopted by the scholar to claim such conclusion
 
 ## Features
 ### Qualitative document analysis
@@ -120,8 +121,7 @@
   - **Holistic Assessment**: Scholars emphasize a holistic approach, considering the collective weight of evidence. While individual criteria contribute to the assessment, scholars recognize the need to balance positive indicators with potential red flags.
   - **Expert Involvement**: Depending on the complexity of the document, scholars may involve experts in relevant fields (historians, archivists, forensic experts) to provide specialized insights and analysis.
 
-
-### Types of analysis
+### Approach
 - Scientific analysis
 - Historical analysis
 - Philologic analysis
