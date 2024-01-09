@@ -94,34 +94,25 @@
 ## Evidence
 - **extrinsic features chronological accuracy**
   - **material anachronisms**: Presence of anachronistic materials or inconsistencies in material properties within the purported time
-  - **materials chronological accuracy**: Consistent in material properties within the purported time
 - **extrinsic features Authenticity**:
-  - **material internal consistency**: Verification of the consistency of use of materials in the surveyed document
-  - **material internal inconsistency**
-  - **lack of external confirmation**
-  - **External Confirmation**: Analysis of materials for compatibility with the claimed era, or any materials inconsistent with the historical context or materials against historical records
+  - **material internal inconsistency**: Verification of the consistency of use of materials in the surveyed document
+  - **lack of external confirmation**:  Analysis of materials for compatibility with the claimed era, or any materials inconsistent with the historical context or materials against historical records
  
 ## Criteria adopted on intrinsic features  
-  - **Accurate usage of intrinsic features**: The appropriate and accurate use of language, terms, and elements within the document.
   - **Anachronistic usage of intrinsic features**: Incorrect or inappropriate use of language, terms, or elements within the document.
   - **Inconsistent usage of intrinsic features**: Check for consistency within the document regarding dates, events, and details. Internal contradictions may raise questions about authenticity
   - **Content lack of credibility**:  The reliability and trustworthiness of the information presented in the document.
-  - **Credible content**: Instances where the information presented lacks reliability or trustworthiness.
   - **Unverified historical contents**: Information within the document that has not been adequately confirmed or supported by reliable historical sources.
-  - **Inconsistent contents**: Check for consistency within the document regarding dates, events, and details described in the document. Internal contradictions may raise questions about authenticity
-  - **Consistent contents**: Check for consistency within the document regarding dates, events, and details. Internal contradictions may raise questions about authenticity
-  - **External Confirmation**:  The process of verifying information in the document against other historical sources or records from the same period.
+  - **Inconsistent contents within the document**: Check for consistency within the document regarding dates, events, and details described in the document. Internal contradictions may raise questions about authenticity
+  - ****Inconsistent contents with other documents****: Lack of coherence or agreement in content when compared to information presented in other historical documents.
   
 ## Criteria adopted on provenance information
 - **Documentary Evidence Criteria**
-  - **Verified Provenance**: If the origin and chain of custody of the document can be traced and verified through reliable sources and documentation, it can be considered as having a verified provenance.
   - **Incomplete Provenance**: If there are gaps or missing links in the origin or chain of custody, the provenance is considered incomplete. This may raise questions about the document's authenticity and reliability.
   - **Disputed Provenance**: If there are conflicting accounts or disputes regarding the origin or chain of custody, the provenance is considered disputed. This may require further investigation to resolve inconsistencies.
   - **Doubtful Provenance**: If there are reasonable doubts about the authenticity of the provenance, it is categorized as doubtful. This could be due to inconsistencies, lack of supporting evidence, or questionable sources.
   - **Document Loss**: If the historical document is confirmed to be lost or missing, it affects the provenance. In such cases, efforts to recover or reconstruct the provenance become crucial.
 - **Witness Testimony Criteria**
-  - **Credibility of Witnesses**: Assess the credibility of the witnesses. Consider factors such as their expertise, reliability, and potential biases. Reliable witnesses with firsthand knowledge or expertise in relevant fields enhance the credibility of the document's provenance.
-  - **Consistency in Testimonies**: Look for consistency in the testimonies of multiple witnesses. Consistent accounts strengthen the reliability of the provenance, while conflicting or inconsistent statements may raise doubts.
   - **Inconsistency in Testimonies**: Look for consistency in the testimonies of multiple witnesses. Consistent accounts strengthen the reliability of the provenance, while conflicting or inconsistent statements may raise doubts.
   - **Lack of Credibility of Witnesses**: Assess the credibility of the witnesses. Consider factors such as their expertise, reliability, and potential biases. Reliable witnesses with firsthand knowledge or expertise in relevant fields enhance the credibility of the document's provenance.
 
