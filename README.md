@@ -93,8 +93,8 @@
 
 ## Evidence
 - **extrinsic features chronological accuracy**
-- **material anachronisms**: Presence of anachronistic materials or inconsistencies in material properties within the purported time
-- **chronological accuracy**: Consistent in material properties within the purported time
+  - **material anachronisms**: Presence of anachronistic materials or inconsistencies in material properties within the purported time
+  - **materials chronological accuracy**: Consistent in material properties within the purported time
 - **extrinsic features Authenticity**:
   - **material internal consistency**: Verification of the consistency of use of materials in the surveyed document
   - **material internal inconsistency**
