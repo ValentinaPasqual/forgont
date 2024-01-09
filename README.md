@@ -93,19 +93,17 @@
 - Document provenance
 
 ## Evidence
-- **extrinsic features chronological accuracy**
-  - **material anachronisms**: Presence of anachronistic materials or inconsistencies in material properties within the purported time
-- **extrinsic features Authenticity**:
-  - **material internal inconsistency**: Verification of the consistency of use of materials in the surveyed document
-  - **lack of external confirmation**:  Analysis of materials for compatibility with the claimed era, or any materials inconsistent with the historical context or materials against historical records
- 
+  - **Anachronistic extrinsic features**: Presence of anachronistic materials or inconsistencies in material properties within the purported time
+  - **Inconsistent usage of extrinsic features**: Verification of the consistency of use of materials within the surveyed document
+     
 ## Criteria adopted on intrinsic features  
   - **Anachronistic usage of intrinsic features**: Incorrect or inappropriate use of language, terms, or elements within the document.
   - **Inconsistent usage of intrinsic features**: Check for consistency within the document regarding dates, events, and details. Internal contradictions may raise questions about authenticity
   - **Content lack of credibility**:  The reliability and trustworthiness of the information presented in the document.
   - **Unverified historical contents**: Information within the document that has not been adequately confirmed or supported by reliable historical sources.
   - **Inconsistent contents within the document**: Check for consistency within the document regarding dates, events, and details described in the document. Internal contradictions may raise questions about authenticity
-  - ****Inconsistent contents with other documents****: Lack of coherence or agreement in content when compared to information presented in other historical documents.
+  - **Inconsistent contents with other documents**: Lack of coherence or agreement in content when compared to information presented in other historical documents.
+  - **Presence of subsequent interpolations**: Inclusion of additional elements or modifications within a given context. It refers to the introduction of supplementary information following an initial statement or passage.
   
 ## Criteria adopted on provenance information
 - **Documentary Evidence Criteria**
@@ -115,7 +113,7 @@
   - **Document Loss**: If the historical document is confirmed to be lost or missing, it affects the provenance. In such cases, efforts to recover or reconstruct the provenance become crucial.
 - **Witness Testimony Criteria**
   - **Inconsistency in Testimonies**: Look for consistency in the testimonies of multiple witnesses. Consistent accounts strengthen the reliability of the provenance, while conflicting or inconsistent statements may raise doubts.
-  - **Lack of Credibility of Witnesses**: Assess the credibility of the witnesses. Consider factors such as their expertise, reliability, and potential biases. Reliable witnesses with firsthand knowledge or expertise in relevant fields enhance the credibility of the document's provenance.
+  - **Lack of genuine witnesses**: Assess the credibility of the witnesses. Consider factors such as their expertise, reliability, and potential biases. Reliable witnesses with firsthand knowledge or expertise in relevant fields enhance the credibility of the document's provenance.
 
 - **Other criteria**
   - **Holistic Assessment**: Scholars emphasize a holistic approach, considering the collective weight of evidence. While individual criteria contribute to the assessment, scholars recognize the need to balance positive indicators with potential red flags.
