@@ -54,6 +54,7 @@
 ### Claim object properties
 - **forgont:has_author**: The author of the claim
 - **forgont:has_background**: The scholarly background of the scholar
+- **forgont:analysed_feature**: The document features analysed by the scholar
 - **forgont:based_on_evidence**: Describes the evidences collected to support the claim conclusion 
 - **forgont:criteria**: Describes the criteria (or analysis) used to reach the conclusion declared by the claim
 - **forgont:consider_compared_document**: Describe the set of documents which has been compared to the one under analysis described by the claim
