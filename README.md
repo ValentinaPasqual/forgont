@@ -103,12 +103,13 @@
  
 ## Criteria adopted on intrinsic features  
   - **Accurate usage of intrinsic features**: The appropriate and accurate use of language, terms, and elements within the document.
-  - **Incorrect usage of intrinsic features**: Incorrect or inappropriate use of language, terms, or elements within the document.
+  - **Anachronistic usage of intrinsic features**: Incorrect or inappropriate use of language, terms, or elements within the document.
+  - **Inconsistent usage of intrinsic features**: Check for consistency within the document regarding dates, events, and details. Internal contradictions may raise questions about authenticity
   - **Content lack of credibility**:  The reliability and trustworthiness of the information presented in the document.
-  - **Content credibility**: Instances where the information presented lacks reliability or trustworthiness.
+  - **Credible content**: Instances where the information presented lacks reliability or trustworthiness.
   - **Unverified historical contents**: Information within the document that has not been adequately confirmed or supported by reliable historical sources.
-  - **Content inconsistency**: Check for consistency within the document regarding dates, events, and details. Internal contradictions may raise questions about authenticity
-  - **Content consistency**: Check for consistency within the document regarding dates, events, and details. Internal contradictions may raise questions about authenticity
+  - **Inconsistent contents**: Check for consistency within the document regarding dates, events, and details described in the document. Internal contradictions may raise questions about authenticity
+  - **Consistent contents**: Check for consistency within the document regarding dates, events, and details. Internal contradictions may raise questions about authenticity
   - **External Confirmation**:  The process of verifying information in the document against other historical sources or records from the same period.
   
 ## Criteria adopted on provenance information
