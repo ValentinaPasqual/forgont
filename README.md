@@ -30,19 +30,21 @@
 
 ## Authenticity assessments 
 
-- **Authenticity Assessment claim**
+- **Authenticity Assessment claim** This contains the conclusions of the scholarly analysis
   - Location of creation assignment
   - Time of creation assignment
   - Author assignment
   - Physical document type assignement
 
-- **Fuzziness handling**:
-  - Fuzzy dates are recorded as timespans
-  - Qualifiers are added to each triple of the claim GRAPH
+  - **Fuzziness handling**:
+    - Fuzzy dates are recorded as timespans
+    - Qualifiers are added to each triple of the claim GRAPH
 
-- **Critical discourse representation**
+- **Critical discourse representation** This contains the analysis performed by the scholar to reach a certain conclusion and some contextual information
   - Author of the claim
-  - Motivation of the claim
+  - Documentary features on which the scholarly analysis is based on
+  - Criteria adopted by the scholar to perform the analysis
+  - Evidence detected by the scholar to support that the document is a forgery
   - Source of the claim
   - Other claims or Editions considered as being the background of the claim
 
@@ -57,8 +59,8 @@
 - **forgont:criteria**: Describes the criteria (or analysis) used to reach the conclusion declared by the claim
 - **forgont:consider_compared_document**: Describe the set of documents which has been compared to the one under analysis described by the claim
 - **provo:has_source**: Describe the set of sources on which the claim has been based on
-- **provo:based_on**: Describe the source on which the claim has been published
-- **provo:appeoach**: The approach adopted by the scholar to claim such conclusion
+- **forgont:based_on**: Describe the source on which the claim has been published
+- **provo:approach**: The approach adopted by the scholar to claim such conclusion
 
 ## Features
 #### Estrinsic features - Medium:
