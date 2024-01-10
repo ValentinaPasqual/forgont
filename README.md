@@ -10,8 +10,6 @@
 
 3. **Alleged Original**: An alleged original is a document that is claimed to be the original but may be subject to dispute or doubt.
 
-4. **Suspicious Original**: A suspicious original is an original document that raises concerns or doubts about its authenticity or legitimacy.
-
 5. **Copy**: A copy is a reproduction or duplicate of an original document, often made to distribute or preserve information.
 
 6. **Authentic Copy**: An authentic copy is a duplicate of an original document that is verified to be genuine and accurate.
