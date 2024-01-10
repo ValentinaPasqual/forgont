@@ -95,6 +95,7 @@
 ## Evidence
   - **Anachronistic extrinsic features**: Presence of anachronistic materials or inconsistencies in material properties within the purported time
   - **Inconsistent usage of extrinsic features**: Verification of the consistency of use of materials within the surveyed document
+  - **Absence of expected extrinsic features**: Verification of extrinsic characteristics, attributes, or elements are not present as typically observed.
   - **Anachronistic usage of intrinsic features**: Incorrect or inappropriate use of language, terms, or elements within the document.
   - **Inconsistent usage of intrinsic features**: Check for consistency within the document regarding dates, events, and details. Internal contradictions may raise questions about authenticity
   - **Content lack of credibility**:  The reliability and trustworthiness of the information presented in the document.
