@@ -43,9 +43,10 @@
 - **Critical discourse representation** This contains the analysis performed by the scholar to reach a certain conclusion and some contextual information
   - Author of the claim
   - Documentary features on which the scholarly analysis is based on
-  - Criteria adopted by the scholar to perform the analysis
-  - Evidence detected by the scholar to support that the document is a forgery
-  - Source of the claim
+  - Criteria adopted by the scholar to perform the analysis (e.g. Radio-carbon testing)
+  - Approach adopted by the scholar to perform the analysis (e.g. Scientific analysis)
+  - Evidence detected by the scholar to support that the document is a forgery (e.g. Presence of subsequent interpolations)
+  - Source of the claim 
   - Other claims or Editions considered as being the background of the claim
 
 ![Authenticity assessment claim representation](grafoo/forgont-model.svg)
