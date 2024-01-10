@@ -1,6 +1,6 @@
 # Forgont 
 
-## Document Types
+## Juridical Categorisation of Document Types
 
 ![Hierarchy of Documents](grafoo/document_definition.svg)
 
