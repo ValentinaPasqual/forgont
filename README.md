@@ -6,7 +6,7 @@
 
 1. **Document**: A document is a recorded or written representation of information, often in written or digital form.
 
-2. **Original**: An original refers to the initial or primary version of a document, created directly by the author or source.
+2. **Original**: An original refers to the initial or primary version of a document, created directly by the author or source which is also deemed to be authentic.
 
 3. **Alleged Original**: An alleged original is a document that is claimed to be the original but may be subject to dispute or doubt.
 
