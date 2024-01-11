@@ -82,9 +82,9 @@
 - format - spacing 
 - format - signs 
 - format - interpolations
-- chronology 
+- chronology and dating 
 - document content
-- dating
+- graphical devices
 
 #### Context
 - historical context
