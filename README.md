@@ -118,7 +118,7 @@
   - **Holistic Assessment**: Scholars emphasize a holistic approach, considering the collective weight of evidence. While individual criteria contribute to the assessment, scholars recognize the need to balance positive indicators with potential red flags.
   - **Expert Involvement**: Depending on the complexity of the document, scholars may involve experts in relevant fields (historians, archivists, forensic experts) to provide specialized insights and analysis.
 
-### Approach
+### Scholarly Approach
 - Scientific analysis
 - Historical analysis
 - Philologic analysis
