@@ -110,7 +110,7 @@
   - **Inconsistency in Testimonies**: Look for consistency in the testimonies of multiple witnesses. Consistent accounts strengthen the reliability of the provenance, while conflicting or inconsistent statements may raise doubts.
   - **Lack of genuine witnesses**: Assess the credibility of the witnesses. Consider factors such as their expertise, reliability, and potential biases. Reliable witnesses with firsthand knowledge or expertise in relevant fields enhance the credibility of the document's provenance.
 
-## Criteria
+## Criteria [to do]
 ### Qualitative document analysis
 - **Witness Testimony Criteria**
 - **Other criteria**
