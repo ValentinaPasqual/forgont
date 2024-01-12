@@ -1,5 +1,14 @@
 # Forgont 
 
+# Document Types
+1. *Charter*
+2. *Letter*
+3. *Map*
+4. *Manuscript*
+5. *Printed Book*
+6. *Codex*
+7. *Certificate*
+
 ## Juridical Categorisation of Document Types
 
 ![Hierarchy of Documents](grafoo/document_definition.svg)
