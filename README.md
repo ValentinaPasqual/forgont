@@ -68,7 +68,7 @@
 - ink   
 - support 
 - sigillum (or seal)
-- document authentication
+- document authentication marks
 - handwriting
 
 #### Intrinsic features - Contents and Structure
@@ -84,13 +84,12 @@
 - format - interpolations
 - chronology and dating 
 - document content
-- graphical devices
+- illustration
 
 #### Context
 - historical context
-- literary framework
-- List of witnesses
-- Document provenance
+- list of witnesses
+- document provenance
 
 ## Evidence
   - **Anachronistic extrinsic features**: Presence of anachronistic materials or inconsistencies in material properties within the purported time
