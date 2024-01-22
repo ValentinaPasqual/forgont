@@ -1,4 +1,4 @@
-# Forgont 
+# Forgont Ontology
 
 # Document Types
 1. *Charter*
@@ -133,7 +133,11 @@
 - Diplomatic analysis
 - Literary analysis
 
+# LLM extraction experiment setup
 
+## Forgont Tuning for the experiment
+
+## KG generation
 
 
 
