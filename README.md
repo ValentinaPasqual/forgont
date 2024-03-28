@@ -107,6 +107,7 @@
   - **Anachronistic usage of intrinsic features**: Incorrect or inappropriate use of language, terms, or elements within the document.
   - **Inconsistent usage of intrinsic features**: Check for consistency within the document regarding dates, events, and details. Internal contradictions may raise questions about authenticity
   - **Content lack of credibility**:  The reliability and trustworthiness of the information presented in the document.
+  - **Anachronistic contents**: The contents described in the document seem to be referenced or inspired by later documents.
   - **Unverified historical contents**: Information within the document that has not been adequately confirmed or supported by reliable historical sources.
   - **Inconsistent contents within the document**: Check for consistency within the document regarding dates, events, and details described in the document. Internal contradictions may raise questions about authenticity
   - **Inconsistent contents with other documents**: Lack of coherence or agreement in content when compared to information presented in other historical documents.
