@@ -7,6 +7,9 @@
 - `wikipedia/outputs/` folder contains all intermediate JSON files and the RDF produced by the pipeline
 
 ## Austrian catalogue extraction
+- `catalogue` folder contains all the files to convert Haider catalogue from .docx to RDF
+- `catalogue_converter.ipynb` is a notebook containing all scripts to convert the data
+- `forgont-kb.trig` contains the RDF produced by the data conversion
 
 ## Ontology
 
