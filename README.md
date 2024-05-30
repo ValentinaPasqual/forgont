@@ -3,7 +3,8 @@
 ## Wikipedia extraction with LLMs
 - `wikipedia` folder contains all the files of the experiment. 
 - `wikipedia/corpus` folder contains the input dataset storing 64 description of forgeries from Wikipedia
-- `wikipedia/forgont_extraction_pipeline.ipynb` is a notebook containing the code of the pipeline 
+- `wikipedia/forgont_extraction_pipeline.ipynb` is a notebook containing the code of the pipeline
+- `wikipedia/from_json_to_graph_converter.ipynb` is a notebook containing the code to conver JSON files into RDF
 - `wikipedia/outputs/` folder contains all intermediate JSON files and the RDF produced by the pipeline
 
 ## Austrian catalogue extraction
