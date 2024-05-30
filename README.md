@@ -1,6 +1,16 @@
-# Forgont Ontology
+# Forgont 
 
-# Document Types
+## Wikipedia extraction with LLMs
+- `wikipedia` folder contains all the files of the experiment. 
+- `wikipedia/corpus` folder contains the input dataset storing 64 description of forgeries from Wikipedia
+- `wikipedia/forgont_extraction_pipeline.ipynb` is a notebook containing the code of the pipeline 
+- `wikipedia/outputs/` folder contains all intermediate JSON files and the RDF produced by the pipeline
+
+## Austrian catalogue extraction
+
+## Ontology
+
+### Document Types
 1. *Charter*
 2. *Letter*
 3. *Map*
@@ -9,7 +19,7 @@
 6. *Codex*
 7. *Certificate*
 
-## Juridical Categorisation of Document Types
+### Juridical Categorisation of Document Types
 
 ![Hierarchy of Documents](grafoo/document_definition.svg)
 
@@ -37,7 +47,7 @@
 
 13. **Partially Forged Document**: A partially forged document is one in which only a portion of the content has been fabricated or altered, while other parts remain genuine.
 
-## Authenticity assessments 
+### Authenticity assessments 
 
 - **Authenticity Assessment claim** This contains the conclusions of the scholarly analysis
   - Location of creation assignment
@@ -60,8 +70,8 @@
 
 ![Authenticity assessment claim representation](grafoo/forgont-model.svg)
 
-## Object Properties
-### Claim object properties
+### Object Properties
+#### Claim object properties
 - **forgont:has_author**: The author of the claim
 - **forgont:has_background**: The scholarly background of the scholar
 - **forgont:analysed_feature**: The document features analysed by the scholar
@@ -72,7 +82,7 @@
 - **forgont:based_on**: Describe the source on which the claim has been published
 - **provo:approach**: The approach adopted by the scholar to claim such conclusion
 
-## Features
+### Features
 #### Estrinsic features - Medium:
 - ink   
 - support 
@@ -100,7 +110,7 @@
 - list of witnesses
 - document provenance
 
-## Evidence
+### Evidence
   - **Anachronistic extrinsic features**: Presence of anachronistic materials or inconsistencies in material properties within the purported time
   - **Inconsistent usage of extrinsic features**: Verification of the consistency of use of materials within the surveyed document
   - **Absence of expected extrinsic features**: Verification of extrinsic characteristics, attributes, or elements are not present as typically observed.
@@ -119,26 +129,24 @@
   - **Inconsistency in Testimonies**: Look for consistency in the testimonies of multiple witnesses. Consistent accounts strengthen the reliability of the provenance, while conflicting or inconsistent statements may raise doubts.
   - **Lack of genuine witnesses**: Assess the credibility of the witnesses. Consider factors such as their expertise, reliability, and potential biases. Reliable witnesses with firsthand knowledge or expertise in relevant fields enhance the credibility of the document's provenance.
 
-## Criteria [to do]
-### Qualitative document analysis
+### Criteria [to do]
+#### Qualitative document analysis
 - **Witness Testimony Criteria**
 - **Other criteria**
   - **Documentary Evidence Criteria**
   - **Holistic Assessment**: Scholars emphasize a holistic approach, considering the collective weight of evidence. While individual criteria contribute to the assessment, scholars recognize the need to balance positive indicators with potential red flags.
   - **Expert Involvement**: Depending on the complexity of the document, scholars may involve experts in relevant fields (historians, archivists, forensic experts) to provide specialized insights and analysis.
 
-### Scholarly Approach
+#### Scholarly Approach
 - Scientific analysis
 - Historical analysis
 - Philologic analysis
 - Diplomatic analysis
 - Literary analysis
 
-# LLM extraction experiment setup
 
-## Forgont Tuning for the experiment
 
-## KG generation
+
 
 
 
